@@ -1,2 +1,3 @@
 # articles
- Articles repo - Mixtape Session
+
+Articles repo created as assignment for Mixtape Session
